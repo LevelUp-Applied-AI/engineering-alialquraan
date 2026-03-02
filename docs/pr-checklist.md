@@ -1,0 +1,5 @@
+- [ ] Code correctness : does the code do exactly what the PR title says?
+- [ ] Test coverage : Are there tests include and do they all pass?
+- [ ] Documentation : is the readme accurate and reflect the new changes?
+- [ ] scope : is this PR focused on one logical change only ?
+- [ ] No debug artifacts: Have I removerd all breakpoint() and temporary print statements.
